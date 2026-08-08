@@ -20,7 +20,7 @@
 
 title: Ryan's Slightly Deformed Website
 email: ryan.lawler@hotmail.com
-#description: -> # this means to ignore newlines until "baseurl:"
+description: A simple website I put together to share some projects I've been working on # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ryanlawler32-png
